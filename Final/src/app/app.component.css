@@ -1,0 +1,38 @@
+.foto {
+    height: 200px;
+    width: 200px;    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-left: 45vw;
+}
+
+.carusel {
+    height: 300px;
+    width: 300px;  
+    margin-top: 20px;
+    margin-bottom: 40px;  
+    margin-left: 41vw; 
+}
+
+.fondo{
+    background-color: black;
+}
+
+.letra{
+    color: white;
+    margin-left: 40vw;
+}
+
+.letra2{
+    color: white;
+    margin-left: 2vw;
+}
+
+.a{
+    margin-left: 15vw;
+}
+
+.centrado{
+    text-align: center;
+}
